@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Fighting Gold",
+  "base_artist": "Coda",
+  "createdAt": "2026-01-04T09:22:53.388884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/01_Fighting_Gold_Coda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fighting Gold - English Ver.-",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/02_Fighting_Gold_-_English_Ver.-_Coda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fighting Gold English Ver.",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/03_Fighting_Gold_English_Ver._Coda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fighting Gold (2020 Version)",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/04_Fighting_Gold_(2020_Version)_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/05_Fighting_Gold_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fighting Gold (From \"Jojo's Bizarre Adventure: Golden Wind\")",
+      "artist": "Miura Jam",
+      "has_synced": true,
+      "path": "select/06_Fighting_Gold_(From__Jojo's_Bizarre_Adventure__Golden_Wind_)_Miura_Jam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fighting Gold (From JoJo's Bizarre Adventure – Golden Wind) - English Version",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/07_Fighting_Gold_(From_JoJo's_Bizarre_Adventure_–_Golden_Wind)_-_English_Version_Coda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fighting Gold (English Version)",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/08_Fighting_Gold_(English_Version)_Coda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/09_Fighting_Gold_Coda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fighting Gold -English Ver.-",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/10_Fighting_Gold_-English_Ver.-_Coda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/11_Fighting_Gold_Coda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "Coda",
+      "has_synced": true,
+      "path": "select/12_Fighting_Gold_Coda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fighting Gold - 2020 Version",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/13_Fighting_Gold_-_2020_Version_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "Tsuko G.",
+      "has_synced": false,
+      "path": "select/14_Fighting_Gold_Tsuko_G..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fighting Gold",
+      "artist": "TurboA",
+      "has_synced": false,
+      "path": "select/15_Fighting_Gold_TurboA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fighting Gold",
+      "artist": "Coda",
+      "has_synced": false,
+      "path": "select/pl_01_Fighting_Gold_Coda.txt"
+    }
+  ]
+}
